@@ -8,7 +8,7 @@ Authors@R:
            email = "seguntaiwoojo@gmail.com", 
            comment = c(ORCID = "0000-0001-9629-6990")),
       person(given = "Olusola Samuel",
-           family = "Makinde",
+           family = "Makinde",gi
            role = c("aut", "cph"),
            email = "olusola.makinde@futa.edu.ng"))
 Description: A collection of rank based methods for multivariate data.
