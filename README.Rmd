@@ -1,0 +1,41 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# rankr
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+`rankr` is a collection of functions for multivariate rank based depths and outlyingness.
+
+## Installation
+
+`rankr` is still at an early experimental stage. You can install the development version
+of `rankr` from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("otsegun/rankr")
+```
+
+## Example
+
+To come soon...
+
+```{r example, eval=F, echo=F}
+library(rankr)
+## basic example code
+```
+
