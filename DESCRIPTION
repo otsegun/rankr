@@ -1,15 +1,18 @@
 Package: rankr
-Title: What the Package Does (One Line, Title Case)
+Title: Rank Based Methods for Multivariate Data
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    c(person(given = "Oluwasegun Taiwo",
+           family = "Ojo",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "seguntaiwoojo@gmail.com", 
+           comment = c(ORCID = "0000-0001-9629-6990")),
+      person(given = "Olusola Samuel",
+           family = "Makinde",
+           role = c("aut", "cph"),
+           email = "olusola.makinde@futa.edu.ng"))
+Description: A collection of rank based methods for multivariate data.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
